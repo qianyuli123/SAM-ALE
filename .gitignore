@@ -142,3 +142,4 @@ cython_debug/
 /monuseg
 /runs
 /dataset
+*.bin
